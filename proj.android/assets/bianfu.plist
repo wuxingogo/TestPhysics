@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>bianfu/b1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,302},{39,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,45}</string>
+			</dict>
+			<key>bianfu/b10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{64,73},{56,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,67}</string>
+			</dict>
+			<key>bianfu/b2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,347},{31,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{31,35}</string>
+			</dict>
+			<key>bianfu/b3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{53,155},{62,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,64}</string>
+			</dict>
+			<key>bianfu/b4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{52,0},{58,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,73}</string>
+			</dict>
+			<key>bianfu/b5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,86},{69,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{69,64}</string>
+			</dict>
+			<key>bianfu/b6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,234},{68,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,61}</string>
+			</dict>
+			<key>bianfu/b7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{52,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{52,86}</string>
+			</dict>
+			<key>bianfu/b8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,155},{53,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,79}</string>
+			</dict>
+			<key>bianfu/b9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{110,0},{50,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{50,74}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>bianfu.png</string>
+			<key>realTextureFileName</key>
+			<string>bianfu.png</string>
+			<key>size</key>
+			<string>{256,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

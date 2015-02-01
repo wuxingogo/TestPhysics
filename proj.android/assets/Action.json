@@ -1,0 +1,22 @@
+{
+
+    "bianfu":
+    [
+    {
+     "name":"walk","startIndex":0,"endIndex":10
+    },
+    {
+     "name":"run","startIndex":20,"endIndex":30
+    }
+    ],
+    "fuzi":
+    [
+     {
+     "name":"walk","startIndex":0,"endIndex":10
+     },
+     {
+     "name":"run","startIndex":0,"endIndex":20
+     }
+     ]
+  
+}
